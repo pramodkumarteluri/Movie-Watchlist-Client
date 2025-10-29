@@ -59,10 +59,10 @@ client/
 
 ## 🔁 Proxy Configuration
 
-To connect to the backend server (on port 5000), the following proxy is set in `package.json`:
+To connect to the backend server, the following proxy is set in `package.json`:
 
 ```json
-"proxy": "http://localhost:5000"
+"proxy": "https://movie-watchlist-server-y5il.onrender.com/"
 ```
 
 ---
